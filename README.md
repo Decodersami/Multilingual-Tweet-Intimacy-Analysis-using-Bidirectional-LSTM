@@ -1,0 +1,2 @@
+# Multilingual-Tweet-Intimacy-Analysis-using-Bidirectional-LSTM
+The project analyzes intimacy in multilingual tweets using bidirectional LSTM networks. It automates intimacy determination in English, Spanish tweets by preprocessing data, extracting features, and using bidirectional LSTMs to understand word relationships. This predicts sentiment accurately, deepening cross-language sentiment understanding.
